@@ -1,0 +1,47 @@
+
+Result Size: 753 x 573
+Create an Account</button></br>
+        }
+        .right{
+            height:500px;
+            width:320px;
+            background-color: plum;
+            
+        }
+    </style>
+</head>
+<body>
+    <div class="header" <pre> Logo                                               Name of the book store </pre>
+    </div>
+    <div class="navigation" <pre class="tab"> Home     Latest arrivals   BestSellers   ContactUs   Search </pre> 
+    </div>
+    <table>
+        <tr>
+            <td>
+                <div class="left" >
+                <p> Computers</p><br>
+                <p> Electronics</p><br>
+                <p> Electrical</p><br>
+                <p> Bio-tech</p><br>
+                </div>
+            </td>
+            <td>
+                <div class="middle">
+                <p> Description of the Book store<br>
+                <p>(Images,Scroll Text etc)</p><br>
+                </div>
+            </td>
+            <td>
+                <div class="right">
+                <input type="text" placeholder="Username"><br>
+                <input type="password" placeholder="Password"><br>
+                <button> Sign-in</button><br>
+                <p>Newuser</p><br>
+                <button>Create an Account</button></br>
+                </div>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+​
